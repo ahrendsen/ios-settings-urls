@@ -11,6 +11,7 @@
 - iCloud → Find My: `prefs:root=APPLE_ACCOUNT&path=LOCATION_SHARING`
 - iCloud → Family Sharing: `prefs:root=APPLE_ACCOUNT&path=FAMILY`
 - iCloud → Hide My Email: `prefs:root=APPLE_ACCOUNT&path=ICLOUD_SERVICE/PRIVATE_EMAIL_MANAGE`
+- iCloud → Mail → iCloud Mail Rules: `prefs:root=APPLE_ACCOUNT&path=ICLOUD_SERVICE/com.apple.Dataclass.Mail/SERVER_SIDE_RULES` (16Pro,iOS18) 
 - Wi-Fi: `prefs:root=WIFI`
 - Bluetooth: `prefs:root=Bluetooth`
 - Cellular → (root): `prefs:root=MOBILE_DATA_SETTINGS_ID`
@@ -222,7 +223,9 @@
 - Emergency SOS: `prefs:root=EMERGENCY_SOS`
 - Exposure Notifications: `prefs:root=EXPOSURE_NOTIFICATION`
 - Battery → (root): `prefs:root=BATTERY_USAGE`
+- Battery → Battery Health: `prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH_TITLE` (16pro,iOS18)
 - Battery → Battery Health: `prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH`
+- Battery → Charging: `prefs:root=Battery_USAGE&path=CHARING_OPTIONS_IDENTIFIER` (16pro,iOS18)
 - Privacy → (root): `prefs:root=Privacy`
 - Privacy → Location Services → (root): `prefs:root=Privacy&path=LOCATION`
 - Privacy → Location Services → Share My Location → (root): `prefs:root=Privacy&path=LOCATION/LOCATION_SHARING`
