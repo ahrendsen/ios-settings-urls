@@ -2,7 +2,7 @@
 
 - [The full list](/settings-urls.md).
 
-A collection of iOS Settings URLs. My take on the great work this forked from.
+A collection of iOS Settings URLs. My take on the great work this forked from. Until further notice, all the pronouns after this point are referring to the author of the repository that this was forked from.
 
 From my post on [r/shortcuts](https://www.reddit.com/r/shortcuts): https://www.reddit.com/r/shortcuts/comments/i9rjbh/an_updated_list_of_settings_urls/
 
