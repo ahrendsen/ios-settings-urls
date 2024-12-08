@@ -167,6 +167,7 @@
 - Accessibility → Switch Control → Switches → (root): `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/SwitchesIdentifier`
 - Accessibility → Switch Control → Switches → Bluetooth Devices…: `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/SwitchesIdentifier/BluetoothDevicesIdentifier`
 - Accessibility → Switch Control → Recipes → (root): `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/RecipesIdentifier` ([16pro;iOS18.1])
+- Accessibility → Switch Control → Recipes → (root): `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/RecipesIdentifier/LaunchRecipe` ([16pro;iOS18.1])
 - Accessibility → Switch Control → Scanning Style: `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/Scanning%20Style`
 - Accessibility → Switch Control → Pause on First Item: `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/Pause%20on%20First%20Item`
 - Accessibility → Switch Control → Move Repeat: `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/Move%20Repeat`
@@ -224,9 +225,9 @@
 - Emergency SOS: `prefs:root=EMERGENCY_SOS`
 - Exposure Notifications: `prefs:root=EXPOSURE_NOTIFICATION`
 - Battery → (root): `prefs:root=BATTERY_USAGE`
-- Battery → Battery Health: `prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH_TITLE` (16pro,iOS18)
-- Battery → Battery Health: `prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH`
-- Battery → Charging: `prefs:root=BATTERY_USAGE&path=CHARGING_OPTIONS_IDENTIFIER` (16pro,iOS18)
+- Battery → Battery Health: `prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH_TITLE` ([16pro;iOS18.1])
+- Battery → Battery Health: `prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH` ([earlier versions])
+- Battery → Charging: `prefs:root=BATTERY_USAGE&path=CHARGING_OPTIONS_IDENTIFIER` ([16pro;iOS18.1])
 - Privacy → (root): `prefs:root=Privacy`
 - Privacy → Location Services → (root): `prefs:root=Privacy&path=LOCATION`
 - Privacy → Location Services → Share My Location → (root): `prefs:root=Privacy&path=LOCATION/LOCATION_SHARING`
