@@ -225,7 +225,7 @@
 - Battery → (root): `prefs:root=BATTERY_USAGE`
 - Battery → Battery Health: `prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH_TITLE` (16pro,iOS18)
 - Battery → Battery Health: `prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH`
-- Battery → Charging: `prefs:root=BATTERY_USAGE&path=CHARING_OPTIONS_IDENTIFIER` (16pro,iOS18)
+- Battery → Charging: `prefs:root=BATTERY_USAGE&path=CHARGING_OPTIONS_IDENTIFIER` (16pro,iOS18)
 - Privacy → (root): `prefs:root=Privacy`
 - Privacy → Location Services → (root): `prefs:root=Privacy&path=LOCATION`
 - Privacy → Location Services → Share My Location → (root): `prefs:root=Privacy&path=LOCATION/LOCATION_SHARING`
