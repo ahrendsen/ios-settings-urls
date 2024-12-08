@@ -1,6 +1,8 @@
 # ios-settings-urls
 
-A collection of iOS Settings URLs.
+- [The full list](/settings-urls.md).
+
+A collection of iOS Settings URLs. My take on the great work this forked from.
 
 From my post on [r/shortcuts](https://www.reddit.com/r/shortcuts): https://www.reddit.com/r/shortcuts/comments/i9rjbh/an_updated_list_of_settings_urls/
 
