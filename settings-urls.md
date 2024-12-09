@@ -167,7 +167,7 @@
 - Accessibility → Switch Control → Switches → (root): `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/SwitchesIdentifier`
 - Accessibility → Switch Control → Switches → Bluetooth Devices…: `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/SwitchesIdentifier/BluetoothDevicesIdentifier`
 - Accessibility → Switch Control → Recipes → (root): `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/RecipesIdentifier` ([16pro;iOS18.1])
-- Accessibility → Switch Control → Recipes → (root): `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/RecipesIdentifier/LaunchRecipe` ([16pro;iOS18.1])
+- Accessibility → Switch Control → Recipes → Launch Recipe: `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/RecipesIdentifier/LaunchRecipe` ([16pro;iOS18.1])
 - Accessibility → Switch Control → Scanning Style: `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/Scanning%20Style`
 - Accessibility → Switch Control → Pause on First Item: `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/Pause%20on%20First%20Item`
 - Accessibility → Switch Control → Move Repeat: `prefs:root=ACCESSIBILITY&path=ScannerSwitchTitle/Move%20Repeat`
